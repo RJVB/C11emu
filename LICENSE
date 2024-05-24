@@ -1,0 +1,5 @@
+All c11emu source files were extracted from the Mesa project and are thus licensed under the MIT License.
+(see file license.rst for details)
+
+With the exception of the headers under "header_only" which are (c) yohhoy 2012 under the Boost license 1.0 .
+
